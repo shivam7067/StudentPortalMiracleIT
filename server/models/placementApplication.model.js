@@ -8,6 +8,11 @@ const placementApplicationSchema = new mongoose.Schema(
       ref: 'Student',
       required: true,
     },
+    drive: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'PlacementDrive',
+      default: null,
+    },
     company: {
       type: String,
       required: [true, 'Company name is required'],
