@@ -1,0 +1,22 @@
+[
+  {
+    "id": "T001",
+    "name": "Rahul Sharma",
+    "email": "rahul@institute.com",
+    "password": "teacher123",
+    "phone": "9876543210",
+    "subject": "Full Stack Development",
+    "experience": "5 Years",
+    "status": "Active"
+  },
+  {
+    "id": "T002",
+    "name": "Priya Verma",
+    "email": "priya@institute.com",
+    "password": "teacher456",
+    "phone": "9876543211",
+    "subject": "Data Structures & Algorithms",
+    "experience": "4 Years",
+    "status": "Active"
+  }
+]
